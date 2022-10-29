@@ -10,3 +10,5 @@
   <img height="180em" img width="48%" src="https://github-readme-stats.vercel.app/api?username=HDR628&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDR628&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+![snake gif](https://github.com/HDR628/HDR628/blob/output/github-contribution-grid-snake.svg)
