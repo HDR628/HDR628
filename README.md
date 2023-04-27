@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3800&pause=1000&width=435&lines=Hi+dear%F0%9F%91%8B%2CI'm+Henrique+Dias+Ribeiro;Be+Welcome++%F0%9F%98%8A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3800&pause=1000&width=435&lines=Hi+dear%F0%9F%91%8B%2CI'm+Henrique;Be+Welcome++%F0%9F%98%8A)](https://git.io/typing-svg)
 
 - I'm currently studying : <br>
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
